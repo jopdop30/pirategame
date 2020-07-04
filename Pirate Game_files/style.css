@@ -1,0 +1,40 @@
+.pFont {
+		font-family: black-beard, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    height: 2em;
+    width: 2em;
+}
+
+th {
+    text-align: center;
+}
+
+table {
+    border-spacing: 5px;
+}
+
+button {
+  margin-bottom: 2em;
+}
+
+#random {
+  margin-right: 1em;
+}
+
+#pick {
+  margin-left: 1em;
+}
